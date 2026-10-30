@@ -63,7 +63,7 @@ IOTA Infotech Ltd · August 2020 – October 2022
 
 | Category | Technologies |
 |---|---|
-| Languages | Dart, Kotlin, Java |
+| Languages | Dart, Kotlin, Python |
 | Mobile Development | Flutter, Android, Jetpack Compose |
 | Architecture | Clean Architecture, MVVM, SOLID |
 | State Management | Riverpod, GetX |
